@@ -6,9 +6,9 @@ const projects = [
   {
     no: '01',
     title: 'GEKI Academy',
-    type: 'Education / Digital',
+    type: 'Education / Digital / Working In Progress',
     text: 'A modern learning platform built around karate, coaching and sports science.',
-    link: 'https://github.com/saitech-1/geki-academy'
+    link: 'https://geki-academy.netlify.app/'
   },
   {
     no: '02',
