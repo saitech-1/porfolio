@@ -8,7 +8,7 @@ const projects = [
     title: 'GEKI Academy',
     type: 'Education / Digital / Working In Progress',
     text: 'A modern learning platform built around karate, coaching and sports science.',
-    link: 'https://geki-academy.netlify.app/'
+    link: 'https://geki-academy.vercel.app/'
   },
   {
     no: '02',
